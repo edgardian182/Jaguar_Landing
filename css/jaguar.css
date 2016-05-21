@@ -1,7 +1,6 @@
 @media (max-width: 600px) {
-  .container {
+  div.container {
     margin: 50px;
-    font-size: 20px;
   }
 }
 
