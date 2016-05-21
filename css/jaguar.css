@@ -1,3 +1,10 @@
+@media (max-width: 600px) {
+  .container {
+    margin: 50px;
+    color: red;
+  }
+}
+
 body {
   background: url("../images/jaguar-xe.jpg") no-repeat center fixed;
   background-size: cover;
